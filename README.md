@@ -1,2 +1,2 @@
-# Adisyon-Uygulamas-
+# AdisyonUygulamasi
 İşletme için adisyon takip uygulaması
